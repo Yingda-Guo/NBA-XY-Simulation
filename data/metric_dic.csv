@@ -1,0 +1,18 @@
+Metric,Definition
+High Accelerations,Numerical count of the number of times a player reached a high end acceleration as determined by a combination of acceleration magnitude (m/s2) and sustained duration (s).
+Medium Accelerations,Numerical count of the number of times a player reached a mid-level end acceleration as determined by a combination of acceleration magnitude (m/s2) and sustained duration (s).
+Low Accelerations,Numerical count of the number of times a player reached a low-level end acceleration as determined by a combination of acceleration magnitude (m/s2) and sustained duration (s).
+Energy Score,The energy score ( low energy = 0 to high energy = 100)  measures a players current state of fatigue by factoring in acute and chronic physiological load states. Each score is personalized to a specific player.
+Time On Ice,Amount of time player is on the ice during the entire session (seconds)
+Time on ice - offensive zone,Amount of time a player is in their offensive zone during the session (s)
+Time on ice - neutral zone,Amount of time a player is in the neutral zone during the session (s)
+Time on ice - defensive zone,Amount of time a player is in their defensive zone during the session (s)
+Distance travelled,Amount of distance covered on the ice by a player during the entire session (m)
+Distance - offensive zone,Amount of distance covered in the offensive zone (m)
+Distance - neutral zone,Amount of distance covered in the neutral zone (m)
+Distance - defensive zone,Amount of distance covered in the defensive zone (m)
+Player Puck Possession Time,Amount of time a player has been in possession of the puck (s)
+Max Speed,Maximum instantaneous speed for the session (m/s)
+Time in speed zone 1,Total time spent skating at a speed less than 2 m/s (seconds)
+Time in speed zone 2,Total time spent skating at speeds between 2 m/s and 6 m/s (seconds)
+Time in speed zone 3,Total time spent skating at speeds greater than 6 m/s (seconds)
